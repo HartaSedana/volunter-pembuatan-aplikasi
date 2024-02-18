@@ -6,4 +6,5 @@ Silahkan gunakan format berikut:<br>
 **\* Nama, [Linkedln/GitHub/Website](Alamat URL).**
 
 Berikut adalah daftar Volunter yng di terima:
-* Oon Arfiandwi,[oor.or](https://oo.or.id).
+* Oon Arfiandwi, [oor.or](https://oo.or.id).
+* Aril Laila , [Linkedln](https://www.linked.com/in/aril-aila/).
